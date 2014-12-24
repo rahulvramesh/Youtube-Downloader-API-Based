@@ -11,4 +11,8 @@ POST / GET Request to index.php
 
     http://localost/index.php?videoid="Youtube_ID"
     
-it will return a JSON data
+it will return a JSON data , Example
+
+     http://localost/index.php?videoid=8uPK9Ov6Zd4
+     
+Rahul v R (rahulvramesh@hotmail.com)
